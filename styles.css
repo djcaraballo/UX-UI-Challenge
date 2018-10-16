@@ -2,6 +2,9 @@ body {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
 }
+header {
+    grid-column: 1/ span 5;
+}
 
 header {
   grid-column: 1/ span 5;
@@ -24,6 +27,10 @@ header {
   grid-template-columns: repeat(4, 1fr);
   background: #ff0000;
   align-self: center;
+}
+
+.followers-button:hover {
+  background: #ff0000;
 }
 
 .buttons {
@@ -67,6 +74,14 @@ header {
 .secondary-title {
   font-size: 2em;
 }
+.group-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 50%;
+  background: #4f4a4a;
+}
 
 .fa-house-damage {
 
@@ -85,20 +100,24 @@ header {
 }
 
 .profile-nav {
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .user-profile{
   border-radius: 3em;
+  margin-top: 10%;
 
 }
-
 .stats-button {
 
 }
 
-.followers-button {
-  
+.operatives-box {
+  background: red;
+  color: white;
+  padding: 10px;
 }
 
 .feed {
