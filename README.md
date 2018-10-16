@@ -11,4 +11,4 @@ Mod 3 - UI/UX Challenge
 <img src="https://github.com/christopherchateau/UI-UX-Challenge/blob/master/assets/imgs/mobile-view.jpg" alt="drawing" width="400"/>
 
 ## Color Theme Inspiration
-<img src="https://github.com/christopherchateau/UI-UX-Challenge/blob/master/assets/imgs/color-inspiration.png?raw=true" alt="drawing" width="400"/>
+<img src="https://github.com/christopherchateau/UI-UX-Challenge/blob/master/assets/imgs/color-inspiration.png?raw=true" alt="drawing" width="600"/>
