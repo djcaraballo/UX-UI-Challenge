@@ -1,7 +1,16 @@
+body {
+  display: grid;
+}
 .app-title {
 
 }
 
+
+.main-header {
+  display: grid;
+  justify-content: right;
+  grid-template-columns: repeat(4, 1fr);
+}
 .fas {
 
 }
@@ -46,7 +55,7 @@
 
 }
 
-.user-profile {
+.user-profile{
 
 }
 
